@@ -1,6 +1,6 @@
 <html>
  <head>
-     Flexera
+     Flexera Technologies
  </head>   
 <body>
 <h2>Welcome to flexera technologies</h2>
