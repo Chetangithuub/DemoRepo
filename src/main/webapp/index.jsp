@@ -3,6 +3,6 @@
      Flexera
  </head>   
 <body>
-<h2>Welcome to flexera</h2>
+<h2>Welcome to flexera technologies</h2>
 </body>
 </html>
