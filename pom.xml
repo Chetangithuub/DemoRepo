@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sampling</finalName>
+    <finalName>samplings</finalName>
   </build>
 </project>
